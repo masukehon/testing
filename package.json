@@ -1,0 +1,18 @@
+{
+    "name": "testing",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/masukehon/testing.git",
+    "author": "Kha <masuke96@gmail.com>",
+    "license": "MIT",
+    "devDependencies": {
+        "mocha": "^5.2.0",
+        "supertest": "^3.3.0"
+    },
+    "scripts": {
+        "test": "mocha"
+    },
+    "dependencies": {
+        "express": "^4.16.3"
+    }
+}
